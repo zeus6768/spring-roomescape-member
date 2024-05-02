@@ -28,3 +28,5 @@ public class AdminController {
         return "admin/theme";
     }
 }
+
+// 프람 바보
