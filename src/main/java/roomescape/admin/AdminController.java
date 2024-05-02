@@ -30,3 +30,4 @@ public class AdminController {
 }
 
 // 프람 바보
+// 호티 바보
